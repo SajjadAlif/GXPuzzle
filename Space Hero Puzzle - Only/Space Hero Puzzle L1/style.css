@@ -1,0 +1,26 @@
+a{
+    color: orange;
+    text-decoration: none;
+    border-radius: 15%;
+    
+    }
+    a:hover {
+    font-size: x-large;
+    color: brown;
+    background: whitesmoke;
+    }
+    .level2{
+        font-size: x-large;
+    }
+    .puzle{
+    
+        color: blue;
+        text-align: center;
+        text-indent: 5px;
+    text-decoration: solid;
+    font-size: large;
+    padding-top: -20%;
+    line-height: normal;
+    
+    
+    }
